@@ -1,0 +1,17 @@
+{
+  "name": "node-clidemo",
+  "version": "1.0.3",
+  "description": "a demo use commander, build command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "anh le hoang",
+  "license": "MIT",
+  "bin": {
+    "clidemo": "./index.js"
+  }
+}
